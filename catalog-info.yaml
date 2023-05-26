@@ -14,3 +14,5 @@ spec:
   type: terraform-module
   lifecycle: production
   owner: dt-devops
+  dependsOn: 
+    component: terraform-aws-route53
