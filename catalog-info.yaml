@@ -15,4 +15,4 @@ spec:
   lifecycle: production
   owner: dt-devops
   dependsOn: 
-    component: default/terraform-aws-route53
+    - component: terraform-aws-route53
