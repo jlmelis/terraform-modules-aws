@@ -5,7 +5,7 @@ metadata:
   description: Terraform modules for AWS
   annotations:
     github.com/project-slug: jlmelis/terraform-modules-aws
-    github.com/project-readme-path: aws-acm
+    github.com/project-readme-path: aws-acm/README.md
   tags:
     - terraform
     - aws
